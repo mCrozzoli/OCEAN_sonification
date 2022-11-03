@@ -1,0 +1,853 @@
+title,Year,Month,Route,Activity,Details,Count
+MED0852,2021,November,,,Deaths recorded in Eastern Med,6
+MED0851,2021,November,,,Deaths recorded in Central Med,88
+MED0850,2021,November,,,Deaths recorded in Western Med,7
+MED0849,2021,November,,,Interceptions by Turkish Coast Guard,3592
+MED0848,2021,November,,,Interceptions by Tunisian Coast Guard,0
+MED0847,2021,November,,,Interceptions by Libyan Coast Guard,3439
+MED0846,2021,November,,,Arrivals in Cyprus,0
+MED0845,2021,November,,,Sea arrivals in Greece,516
+MED0844,2021,November,,,Sea arrivals in Malta,0
+MED0843,2021,November,,,Sea arrivals in Italy,9517
+MED0842,2021,November,,,Land arrivals in Spain,293
+MED0841,2021,November,,,Sea arrivals in Spain,628
+MED0840,2021,October,,,Deaths recorded in Eastern Med,5
+MED0839,2021,October,,,Deaths recorded in Central Med,85
+MED0838,2021,October,,,Deaths recorded in Western Med,48
+MED0837,2021,October,,,Interceptions by Turkish Coast Guard,2670
+MED0836,2021,October,,,Interceptions by Tunisian Coast Guard,0
+MED0835,2021,October,,,Interceptions by Libyan Coast Guard,2123
+MED0834,2021,October,,,Arrivals in Cyprus,2084
+MED0833,2021,October,,,Sea arrivals in Greece,719
+MED0832,2021,October,,,Sea arrivals in Malta,49
+MED0831,2021,October,,,Sea arrivals in Italy,7110
+MED0830,2021,October,,,Land arrivals in Spain,25
+MED0829,2021,October,,,Sea arrivals in Spain,1868
+MED0828,2021,September,,,Deaths recorded in Eastern Med,2
+MED0827,2021,September,,,Deaths recorded in Central Med,12
+MED0826,2021,September,,,Deaths recorded in Western Med,25
+MED0825,2021,September,,,Interceptions by Turkish Coast Guard,3682
+MED0824,2021,September,,,Interceptions by Tunisian Coast Guard,3199
+MED0823,2021,September,,,Interceptions by Libyan Coast Guard,1846
+MED0822,2021,September,,,Arrivals in Cyprus,1022
+MED0821,2021,September,,,Sea arrivals in Greece,280
+MED0820,2021,September,,,Sea arrivals in Malta,143
+MED0819,2021,September,,,Sea arrivals in Italy,6919
+MED0818,2021,September,,,Land arrivals in Spain,39
+MED0817,2021,September,,,Sea arrivals in Spain,4192
+MED0816,2021,August,,,Deaths recorded in Eastern Med,0
+MED0815,2021,August,,,Deaths recorded in Central Med,96
+MED0814,2021,August,,,Deaths recorded in Western Med,34
+MED0813,2021,August,,,Interceptions by Turkish Coast Guard,2444
+MED0812,2021,August,,,Interceptions by Tunisian Coast Guard,5582
+MED0811,2021,August,,,Interceptions by Libyan Coast Guard,4189
+MED0810,2021,August,,,Arrivals in Cyprus,598
+MED0809,2021,August,,,Sea arrivals in Greece,538
+MED0808,2021,August,,,Sea arrivals in Malta,139
+MED0807,2021,August,,,Sea arrivals in Italy,10286
+MED0806,2021,August,,,Land arrivals in Spain,100
+MED0805,2021,August,,,Sea arrivals in Spain,2040
+MED0804,2021,July,,,Deaths recorded in Eastern Med,11
+MED0803,2021,July,,,Deaths recorded in Central Med,263
+MED0802,2021,July,,,Deaths recorded in Western Med,37
+MED0801,2021,July,,,Interceptions by Turkish Coast Guard,1736
+MED0800,2021,July,,,Interceptions by Tunisian Coast Guard,2993
+MED0799,2021,July,,,Interceptions by Libyan Coast Guard,4059
+MED0798,2021,July,,,Arrivals in Cyprus,583
+MED0797,2021,July,,,Sea arrivals in Greece,148
+MED0796,2021,July,,,Sea arrivals in Malta,81
+MED0795,2021,July,,,Sea arrivals in Italy,8605
+MED0794,2021,July,,,Land arrivals in Spain,477
+MED0793,2021,July,,,Sea arrivals in Spain,2116
+MED0792,2021,June,,,Deaths recorded in Eastern Med,0
+MED0791,2021,June,,,Deaths recorded in Central Med,94
+MED0790,2021,June,,,Deaths recorded in Western Med,19
+MED0789,2021,June,,,Interceptions by Turkish Coast Guard,1651
+MED0788,2021,June,,,Interceptions by Tunisian Coast Guard,2027
+MED0787,2021,June,,,Interceptions by Libyan Coast Guard,4915
+MED0786,2021,June,,,Arrivals in Cyprus,763
+MED0785,2021,June,,,Sea arrivals in Greece,74
+MED0784,2021,June,,,Sea arrivals in Malta,103
+MED0783,2021,June,,,Sea arrivals in Italy,5840
+MED0782,2021,June,,,Land arrivals in Spain,0
+MED0781,2021,June,,,Sea arrivals in Spain,1204
+MED0780,2021,May,,,Deaths recorded in Eastern Med,0
+MED0779,2021,May,,,Deaths recorded in Central Med,157
+MED0778,2021,May,,,Deaths recorded in Western Med,37
+MED0777,2021,May,,,Interceptions by Turkish Coast Guard,862
+MED0776,2021,May,,,Interceptions by Tunisian Coast Guard,2487
+MED0775,2021,May,,,Interceptions by Libyan Coast Guard,3599
+MED0774,2021,May,,,Arrivals in Cyprus,1003
+MED0773,2021,May,,,Sea arrivals in Greece,295
+MED0772,2021,May,,,Sea arrivals in Malta,82
+MED0771,2021,May,,,Sea arrivals in Italy,5679
+MED0770,2021,May,,,Land arrivals in Spain,9187
+MED0769,2021,May,,,Sea arrivals in Spain,1140
+MED0768,2021,April,,,Deaths recorded in Eastern Med,0
+MED0767,2021,April,,,Deaths recorded in Central Med,195
+MED0766,2021,April,,,Deaths recorded in Western Med,28
+MED0765,2021,April,,,Interceptions by Turkish Coast Guard,2104
+MED0764,2021,April,,,Interceptions by Tunisian Coast Guard,409
+MED0763,2021,April,,,Interceptions by Libyan Coast Guard,916
+MED0762,2021,April,,,Arrivals in Cyprus,1061
+MED0761,2021,April,,,Sea arrivals in Greece,195
+MED0760,2021,April,,,Sea arrivals in Malta,0
+MED0759,2021,April,,,Sea arrivals in Italy,1585
+MED0758,2021,April,,,Land arrivals in Spain,229
+MED0757,2021,April,,,Sea arrivals in Spain,640
+MED0756,2021,March,,,Deaths recorded in Eastern Med,4
+MED0755,2021,March,,,Deaths recorded in Central Med,113
+MED0754,2021,March,,,Deaths recorded in Western Med,31
+MED0753,2021,March,,,Interceptions by Turkish Coast Guard,1251
+MED0752,2021,March,,,Interceptions by Tunisian Coast Guard,882
+MED0751,2021,March,,,Interceptions by Libyan Coast Guard,1948
+MED0750,2021,March,,,Arrivals in Cyprus,991
+MED0749,2021,March,,,Sea arrivals in Greece,362
+MED0748,2021,March,,,Sea arrivals in Malta,0
+MED0747,2021,March,,,Sea arrivals in Italy,2395
+MED0746,2021,March,,,Land arrivals in Spain,-15
+MED0745,2021,March,,,Sea arrivals in Spain,1190
+MED0744,2021,February,,,Deaths recorded in Eastern Med,0
+MED0743,2021,February,,,Deaths recorded in Central Med,129
+MED0742,2021,February,,,Deaths recorded in Western Med,17
+MED0741,2021,February,,,Interceptions by Turkish Coast Guard,723
+MED0740,2021,February,,,Interceptions by Tunisian Coast Guard,1273
+MED0739,2021,February,,,Interceptions by Libyan Coast Guard,3487
+MED0738,2021,February,,,Arrivals in Cyprus,360
+MED0737,2021,February,,,Sea arrivals in Greece,312
+MED0736,2021,February,,,Sea arrivals in Malta,65
+MED0735,2021,February,,,Sea arrivals in Italy,3994
+MED0734,2021,February,,,Land arrivals in Spain,96
+MED0733,2021,February,,,Sea arrivals in Spain,682
+MED0732,2021,January,,,Deaths recorded in Eastern Med,2
+MED0731,2021,January,,,Deaths recorded in Central Med,81
+MED0730,2021,January,,,Deaths recorded in Western Med,35
+MED0729,2021,January,,,Interceptions by Turkish Coast Guard,391
+MED0728,2021,January,,,Interceptions by Tunisian Coast Guard,463
+MED0727,2021,January,,,Interceptions by Libyan Coast Guard,469
+MED0726,2021,January,,,Arrivals in Cyprus,405
+MED0725,2021,January,,,Sea arrivals in Greece,156
+MED0724,2021,January,,,Sea arrivals in Malta,0
+MED0723,2021,January,,,Sea arrivals in Italy,1039
+MED0722,2021,January,,,Land arrivals in Spain,293
+MED0721,2021,January,,,Sea arrivals in Spain,814
+MED0720,2020,December,,,Deaths recorded in Eastern Med,6
+MED0719,2020,December,,,Deaths recorded in Central Med,87
+MED0718,2020,December,,,Deaths recorded in Western Med,37
+MED0717,2020,December,,,Interceptions by Turkish Coast Guard,1250
+MED0716,2020,December,,,Interceptions by Tunisian Coast Guard,717
+MED0715,2020,December,,,Interceptions by Libyan Coast Guard,126
+MED0714,2020,December,,,Arrivals in Cyprus,0
+MED0713,2020,December,,,Sea arrivals in Greece,252
+MED0712,2020,December,,,Sea arrivals in Malta,0
+MED0711,2020,December,,,Sea arrivals in Italy,1591
+MED0710,2020,December,,,Land arrivals in Spain,198
+MED0709,2020,December,,,Sea arrivals in Spain,993
+MED0708,2020,November,,,Deaths recorded in Eastern Med,2
+MED0707,2020,November,,,Deaths recorded in Central Med,176
+MED0706,2020,November,,,Deaths recorded in Western Med,92
+MED0705,2020,November,,,Interceptions by Turkish Coast Guard,1180
+MED0704,2020,November,,,Interceptions by Tunisian Coast Guard,849
+MED0703,2020,November,,,Interceptions by Libyan Coast Guard,1742
+MED0702,2020,November,,,Arrivals in Cyprus,0
+MED0701,2020,November,,,Sea arrivals in Greece,237
+MED0700,2020,November,,,Sea arrivals in Malta,25
+MED0699,2020,November,,,Sea arrivals in Italy,5360
+MED0698,2020,November,,,Land arrivals in Spain,50
+MED0697,2020,November,,,Sea arrivals in Spain,1455
+MED0696,2020,October,,,Deaths recorded in Eastern Med,0
+MED0695,2020,October,,,Deaths recorded in Central Med,109
+MED0694,2020,October,,,Deaths recorded in Western Med,46
+MED0693,2020,October,,,Interceptions by Turkish Coast Guard,1519
+MED0692,2020,October,,,Interceptions by Tunisian Coast Guard,1349
+MED0691,2020,October,,,Interceptions by Libyan Coast Guard,575
+MED0690,2020,October,,,Arrivals in Cyprus,0
+MED0689,2020,October,,,Sea arrivals in Greece,84
+MED0688,2020,October,,,Sea arrivals in Malta,94
+MED0687,2020,October,,,Sea arrivals in Italy,3477
+MED0686,2020,October,,,Land arrivals in Spain,38
+MED0685,2020,October,,,Sea arrivals in Spain,3140
+MED0684,2020,September,,,Deaths recorded in Eastern Med,20
+MED0683,2020,September,,,Deaths recorded in Central Med,186
+MED0682,2020,September,,,Deaths recorded in Western Med,34
+MED0681,2020,September,,,Interceptions by Turkish Coast Guard,1373
+MED0680,2020,September,,,Interceptions by Tunisian Coast Guard,2035
+MED0679,2020,September,,,Interceptions by Libyan Coast Guard,1467
+MED0678,2020,September,,,Arrivals in Cyprus,0
+MED0677,2020,September,,,Sea arrivals in Greece,90
+MED0676,2020,September,,,Sea arrivals in Malta,150
+MED0675,2020,September,,,Sea arrivals in Italy,4386
+MED0674,2020,September,,,Land arrivals in Spain,25
+MED0673,2020,September,,,Sea arrivals in Spain,2896
+MED0672,2020,August,,,Deaths recorded in Eastern Med,0
+MED0671,2020,August,,,Deaths recorded in Central Med,110
+MED0670,2020,August,,,Deaths recorded in Western Med,29
+MED0669,2020,August,,,Interceptions by Turkish Coast Guard,1838
+MED0668,2020,August,,,Interceptions by Tunisian Coast Guard,1621
+MED0667,2020,August,,,Interceptions by Libyan Coast Guard,1362
+MED0666,2020,August,,,Arrivals in Cyprus,0
+MED0665,2020,August,,,Sea arrivals in Greece,454
+MED0664,2020,August,,,Sea arrivals in Malta,71
+MED0663,2020,August,,,Sea arrivals in Italy,5326
+MED0662,2020,August,,,Land arrivals in Spain,61
+MED0661,2020,August,,,Sea arrivals in Spain,2011
+MED0660,2020,July,,,Deaths recorded in Eastern Med,0
+MED0659,2020,July,,,Deaths recorded in Central Med,67
+MED0658,2020,July,,,Deaths recorded in Western Med,20
+MED0657,2020,July,,,Interceptions by Turkish Coast Guard,1493
+MED0656,2020,July,,,Interceptions by Tunisian Coast Guard,2918
+MED0655,2020,July,,,Interceptions by Libyan Coast Guard,1143
+MED0654,2020,July,,,Arrivals in Cyprus,0
+MED0653,2020,July,,,Sea arrivals in Greece,317
+MED0652,2020,July,,,Sea arrivals in Malta,261
+MED0651,2020,July,,,Sea arrivals in Italy,7067
+MED0650,2020,July,,,Land arrivals in Spain,51
+MED0649,2020,July,,,Sea arrivals in Spain,2074
+MED0648,2020,June,,,Deaths recorded in Eastern Med,4
+MED0647,2020,June,,,Deaths recorded in Central Med,89
+MED0646,2020,June,,,Deaths recorded in Western Med,6
+MED0645,2020,June,,,Interceptions by Turkish Coast Guard,1816
+MED0644,2020,June,,,Interceptions by Tunisian Coast Guard,1611
+MED0643,2020,June,,,Interceptions by Libyan Coast Guard,1496
+MED0642,2020,June,,,Arrivals in Cyprus,524
+MED0641,2020,June,,,Sea arrivals in Greece,269
+MED0640,2020,June,,,Sea arrivals in Malta,425
+MED0639,2020,June,,,Sea arrivals in Italy,1831
+MED0638,2020,June,,,Land arrivals in Spain,82
+MED0637,2020,June,,,Sea arrivals in Spain,837
+MED0636,2020,May,,,Deaths recorded in Eastern Med,0
+MED0635,2020,May,,,Deaths recorded in Central Med,11
+MED0634,2020,May,,,Deaths recorded in Western Med,1
+MED0633,2020,May,,,Interceptions by Turkish Coast Guard,605
+MED0632,2020,May,,,Interceptions by Tunisian Coast Guard,1243
+MED0631,2020,May,,,Interceptions by Libyan Coast Guard,774
+MED0630,2020,May,,,Arrivals in Cyprus,494
+MED0629,2020,May,,,Sea arrivals in Greece,230
+MED0628,2020,May,,,Sea arrivals in Malta,54
+MED0627,2020,May,,,Sea arrivals in Italy,1654
+MED0626,2020,May,,,Land arrivals in Spain,21
+MED0625,2020,May,,,Sea arrivals in Spain,545
+MED0624,2020,April,,,Deaths recorded in Eastern Med,0
+MED0623,2020,April,,,Deaths recorded in Central Med,13
+MED0622,2020,April,,,Deaths recorded in Western Med,1
+MED0621,2020,April,,,Interceptions by Turkish Coast Guard,253
+MED0620,2020,April,,,Interceptions by Tunisian Coast Guard,99
+MED0619,2020,April,,,Interceptions by Libyan Coast Guard,395
+MED0618,2020,April,,,Arrivals in Cyprus,494
+MED0617,2020,April,,,Sea arrivals in Greece,39
+MED0616,2020,April,,,Sea arrivals in Malta,66
+MED0615,2020,April,,,Sea arrivals in Italy,671
+MED0614,2020,April,,,Land arrivals in Spain,89
+MED0613,2020,April,,,Sea arrivals in Spain,276
+MED0612,2020,March,,,Deaths recorded in Eastern Med,4
+MED0611,2020,March,,,Deaths recorded in Central Med,20
+MED0610,2020,March,,,Deaths recorded in Western Med,11
+MED0609,2020,March,,,Interceptions by Turkish Coast Guard,2907
+MED0608,2020,March,,,Interceptions by Tunisian Coast Guard,137
+MED0607,2020,March,,,Interceptions by Libyan Coast Guard,630
+MED0606,2020,March,,,Arrivals in Cyprus,494
+MED0605,2020,March,,,Sea arrivals in Greece,1998
+MED0604,2020,March,,,Sea arrivals in Malta,146
+MED0603,2020,March,,,Sea arrivals in Italy,241
+MED0602,2020,March,,,Land arrivals in Spain,171
+MED0601,2020,March,,,Sea arrivals in Spain,466
+MED0600,2020,February,,,Deaths recorded in Eastern Med,0
+MED0599,2020,February,,,Deaths recorded in Central Med,110
+MED0598,2020,February,,,Deaths recorded in Western Med,9
+MED0597,2020,February,,,Interceptions by Turkish Coast Guard,2079
+MED0596,2020,February,,,Interceptions by Tunisian Coast Guard,571
+MED0595,2020,February,,,Interceptions by Libyan Coast Guard,1109
+MED0594,2020,February,,,Arrivals in Cyprus,494
+MED0593,2020,February,,,Sea arrivals in Greece,2092
+MED0592,2020,February,,,Sea arrivals in Malta,688
+MED0591,2020,February,,,Sea arrivals in Italy,1211
+MED0590,2020,February,,,Land arrivals in Spain,454
+MED0589,2020,February,,,Sea arrivals in Spain,1248
+MED0588,2020,January,,,Deaths recorded in Eastern Med,68
+MED0587,2020,January,,,Deaths recorded in Central Med,6
+MED0586,2020,January,,,Deaths recorded in Western Med,49
+MED0585,2020,January,,,Interceptions by Turkish Coast Guard,4067
+MED0584,2020,January,,,Interceptions by Tunisian Coast Guard,316
+MED0583,2020,January,,,Interceptions by Libyan Coast Guard,1072
+MED0582,2020,January,,,Arrivals in Cyprus,495
+MED0581,2020,January,,,Sea arrivals in Greece,3228
+MED0580,2020,January,,,Sea arrivals in Malta,301
+MED0579,2020,January,,,Sea arrivals in Italy,1342
+MED0578,2020,January,,,Land arrivals in Spain,515
+MED0577,2020,January,,,Sea arrivals in Spain,1142
+MED0576,2019,December,,,Deaths recorded in Eastern Med,0
+MED0575,2019,December,,,Deaths recorded in Central Med,47
+MED0574,2019,December,,,Deaths recorded in Western Med,129
+MED0573,2019,December,,,Interceptions by Turkish Coast Guard,3765
+MED0572,2019,December,,,Interceptions by Tunisian Coast Guard,57
+MED0571,2019,December,,,Interceptions by Libyan Coast Guard,183
+MED0570,2019,December,,,Arrivals in Cyprus,487
+MED0569,2019,December,,,Sea arrivals in Greece,6217
+MED0568,2019,December,,,Sea arrivals in Malta,97
+MED0567,2019,December,,,Sea arrivals in Italy,589
+MED0566,2019,December,,,Land arrivals in Spain,601
+MED0565,2019,December,,,Sea arrivals in Spain,1528
+MED0564,2019,November,,,Deaths recorded in Eastern Med,0
+MED0563,2019,November,,,Deaths recorded in Central Med,279
+MED0562,2019,November,,,Deaths recorded in Western Med,100
+MED0561,2019,November,,,Interceptions by Turkish Coast Guard,6401
+MED0560,2019,November,,,Interceptions by Tunisian Coast Guard,429
+MED0559,2019,November,,,Interceptions by Libyan Coast Guard,719
+MED0558,2019,November,,,Arrivals in Cyprus,813
+MED0557,2019,November,,,Sea arrivals in Greece,8435
+MED0556,2019,November,,,Sea arrivals in Malta,193
+MED0555,2019,November,,,Sea arrivals in Italy,1232
+MED0554,2019,November,,,Land arrivals in Spain,783
+MED0553,2019,November,,,Sea arrivals in Spain,1123
+MED0552,2019,October,,,Deaths recorded in Eastern Med,5
+MED0551,2019,October,,,Deaths recorded in Central Med,91
+MED0550,2019,October,,,Deaths recorded in Western Med,3
+MED0549,2019,October,,,Interceptions by Turkish Coast Guard,11910
+MED0548,2019,October,,,Interceptions by Tunisian Coast Guard,116
+MED0547,2019,October,,,Interceptions by Libyan Coast Guard,1131
+MED0546,2019,October,,,Arrivals in Cyprus,964
+MED0545,2019,October,,,Sea arrivals in Greece,9213
+MED0544,2019,October,,,Sea arrivals in Malta,362
+MED0543,2019,October,,,Sea arrivals in Italy,2017
+MED0542,2019,October,,,Land arrivals in Spain,660
+MED0541,2019,October,,,Sea arrivals in Spain,3085
+MED0540,2019,September,,,Deaths recorded in Eastern Med,9
+MED0539,2019,September,,,Deaths recorded in Central Med,19
+MED0538,2019,September,,,Deaths recorded in Western Med,109
+MED0537,2019,September,,,Interceptions by Turkish Coast Guard,11673
+MED0536,2019,September,,,Interceptions by Tunisian Coast Guard,0
+MED0535,2019,September,,,Interceptions by Libyan Coast Guard,1242
+MED0534,2019,September,,,Arrivals in Cyprus,631
+MED0533,2019,September,,,Sea arrivals in Greece,10367
+MED0532,2019,September,,,Sea arrivals in Malta,508
+MED0531,2019,September,,,Sea arrivals in Italy,2498
+MED0530,2019,September,,,Land arrivals in Spain,677
+MED0529,2019,September,,,Sea arrivals in Spain,2856
+MED0528,2019,August,,,Deaths recorded in Eastern Med,0
+MED0527,2019,August,,,Deaths recorded in Central Med,167
+MED0526,2019,August,,,Deaths recorded in Western Med,6
+MED0525,2019,August,,,Interceptions by Turkish Coast Guard,8430
+MED0524,2019,August,,,Interceptions by Tunisian Coast Guard,0
+MED0523,2019,August,,,Interceptions by Libyan Coast Guard,1374
+MED0522,2019,August,,,Arrivals in Cyprus,413
+MED0521,2019,August,,,Sea arrivals in Greece,8278
+MED0520,2019,August,,,Sea arrivals in Malta,662
+MED0519,2019,August,,,Sea arrivals in Italy,1268
+MED0518,2019,August,,,Land arrivals in Spain,350
+MED0517,2019,August,,,Sea arrivals in Spain,1983
+MED0516,2019,July,,,Deaths recorded in Eastern Med,1
+MED0515,2019,July,,,Deaths recorded in Central Med,301
+MED0514,2019,July,,,Deaths recorded in Western Med,4
+MED0513,2019,July,,,Interceptions by Turkish Coast Guard,5409
+MED0512,2019,July,,,Interceptions by Tunisian Coast Guard,0
+MED0511,2019,July,,,Interceptions by Libyan Coast Guard,826
+MED0510,2019,July,,,Arrivals in Cyprus,600
+MED0509,2019,July,,,Sea arrivals in Greece,5528
+MED0508,2019,July,,,Sea arrivals in Malta,307
+MED0507,2019,July,,,Sea arrivals in Italy,1088
+MED0506,2019,July,,,Land arrivals in Spain,486
+MED0505,2019,July,,,Sea arrivals in Spain,2853
+MED0504,2019,June,,,Deaths recorded in Eastern Med,19
+MED0503,2019,June,,,Deaths recorded in Central Med,27
+MED0502,2019,June,,,Deaths recorded in Western Med,35
+MED0501,2019,June,,,Interceptions by Turkish Coast Guard,3262
+MED0500,2019,June,,,Interceptions by Tunisian Coast Guard,0
+MED0499,2019,June,,,Interceptions by Libyan Coast Guard,-2971
+MED0498,2019,June,,,Arrivals in Cyprus,733
+MED0497,2019,June,,,Sea arrivals in Greece,3792
+MED0496,2019,June,,,Sea arrivals in Malta,599
+MED0495,2019,June,,,Sea arrivals in Italy,1218
+MED0494,2019,June,,,Land arrivals in Spain,379
+MED0493,2019,June,,,Sea arrivals in Spain,2343
+MED0492,2019,May,,,Deaths recorded in Eastern Med,18
+MED0491,2019,May,,,Deaths recorded in Central Med,65
+MED0490,2019,May,,,Deaths recorded in Western Med,25
+MED0489,2019,May,,,Interceptions by Turkish Coast Guard,2604
+MED0488,2019,May,,,Interceptions by Tunisian Coast Guard,73
+MED0487,2019,May,,,Interceptions by Libyan Coast Guard,-2398
+MED0486,2019,May,,,Arrivals in Cyprus,759
+MED0485,2019,May,,,Sea arrivals in Greece,2898
+MED0484,2019,May,,,Sea arrivals in Malta,376
+MED0483,2019,May,,,Sea arrivals in Italy,782
+MED0482,2019,May,,,Land arrivals in Spain,632
+MED0481,2019,May,,,Sea arrivals in Spain,1459
+MED0480,2019,April,,,Deaths recorded in Eastern Med,5
+MED0479,2019,April,,,Deaths recorded in Central Med,52
+MED0478,2019,April,,,Deaths recorded in Western Med,7
+MED0477,2019,April,,,Interceptions by Turkish Coast Guard,2773
+MED0476,2019,April,,,Interceptions by Tunisian Coast Guard,49
+MED0475,2019,April,,,Interceptions by Libyan Coast Guard,130
+MED0474,2019,April,,,Arrivals in Cyprus,760
+MED0473,2019,April,,,Sea arrivals in Greece,2068
+MED0472,2019,April,,,Sea arrivals in Malta,64
+MED0471,2019,April,,,Sea arrivals in Italy,255
+MED0470,2019,April,,,Land arrivals in Spain,391
+MED0469,2019,April,,,Sea arrivals in Spain,979
+MED0468,2019,March,,,Deaths recorded in Eastern Med,11
+MED0467,2019,March,,,Deaths recorded in Central Med,56
+MED0466,2019,March,,,Deaths recorded in Western Med,53
+MED0465,2019,March,,,Interceptions by Turkish Coast Guard,1796
+MED0464,2019,March,,,Interceptions by Tunisian Coast Guard,241
+MED0463,2019,March,,,Interceptions by Libyan Coast Guard,218
+MED0462,2019,March,,,Arrivals in Cyprus,637
+MED0461,2019,March,,,Sea arrivals in Greece,2021
+MED0460,2019,March,,,Sea arrivals in Malta,188
+MED0459,2019,March,,,Sea arrivals in Italy,262
+MED0458,2019,March,,,Land arrivals in Spain,448
+MED0457,2019,March,,,Sea arrivals in Spain,251
+MED0456,2019,February,,,Deaths recorded in Eastern Med,1
+MED0455,2019,February,,,Deaths recorded in Central Med,6
+MED0454,2019,February,,,Deaths recorded in Western Med,19
+MED0453,2019,February,,,Interceptions by Turkish Coast Guard,1428
+MED0452,2019,February,,,Interceptions by Tunisian Coast Guard,22
+MED0451,2019,February,,,Interceptions by Libyan Coast Guard,426
+MED0450,2019,February,,,Arrivals in Cyprus,429
+MED0449,2019,February,,,Sea arrivals in Greece,1549
+MED0448,2019,February,,,Sea arrivals in Malta,0
+MED0447,2019,February,,,Sea arrivals in Italy,60
+MED0446,2019,February,,,Land arrivals in Spain,430
+MED0445,2019,February,,,Sea arrivals in Spain,892
+MED0444,2019,January,,,Deaths recorded in Eastern Med,2
+MED0443,2019,January,,,Deaths recorded in Central Med,152
+MED0442,2019,January,,,Deaths recorded in Western Med,62
+MED0441,2019,January,,,Interceptions by Turkish Coast Guard,1092
+MED0440,2019,January,,,Interceptions by Tunisian Coast Guard,41
+MED0439,2019,January,,,Interceptions by Libyan Coast Guard,548
+MED0438,2019,January,,,Arrivals in Cyprus,595
+MED0437,2019,January,,,Sea arrivals in Greece,2079
+MED0436,2019,January,,,Sea arrivals in Malta,49
+MED0435,2019,January,,,Sea arrivals in Italy,202
+MED0434,2019,January,,,Land arrivals in Spain,508
+MED0433,2019,January,,,Sea arrivals in Spain,4064
+MED0432,2018,December,,,Deaths recorded in Eastern Med,7
+MED0431,2018,December,,,Deaths recorded in Central Med,23
+MED0430,2018,December,,,Deaths recorded in Western Med,78
+MED0429,2018,December,,,Interceptions by Turkish Coast Guard,2580
+MED0428,2018,December,,,Interceptions by Tunisian Coast Guard,325
+MED0427,2018,December,,,Interceptions by Libyan Coast Guard,364
+MED0426,2018,December,,,Arrivals in Cyprus,488
+MED0425,2018,December,,,Sea arrivals in Greece,3138
+MED0424,2018,December,,,Sea arrivals in Malta,263
+MED0423,2018,December,,,Sea arrivals in Italy,359
+MED0422,2018,December,,,Land arrivals in Spain,565
+MED0421,2018,December,,,Sea arrivals in Spain,4450
+MED0420,2018,November,,,Deaths recorded in Eastern Med,11
+MED0419,2018,November,,,Deaths recorded in Central Med,24
+MED0418,2018,November,,,Deaths recorded in Western Med,114
+MED0417,2018,November,,,Interceptions by Turkish Coast Guard,1116
+MED0416,2018,November,,,Interceptions by Tunisian Coast Guard,303
+MED0415,2018,November,,,Interceptions by Libyan Coast Guard,687
+MED0414,2018,November,,,Arrivals in Cyprus,689
+MED0413,2018,November,,,Sea arrivals in Greece,2101
+MED0412,2018,November,,,Sea arrivals in Malta,149
+MED0411,2018,November,,,Sea arrivals in Italy,980
+MED0410,2018,November,,,Land arrivals in Spain,537
+MED0409,2018,November,,,Sea arrivals in Spain,5272
+MED0408,2018,October,,,Deaths recorded in Eastern Med,38
+MED0407,2018,October,,,Deaths recorded in Central Med,7
+MED0406,2018,October,,,Deaths recorded in Western Med,144
+MED0405,2018,October,,,Interceptions by Turkish Coast Guard,3217
+MED0404,2018,October,,,Interceptions by Tunisian Coast Guard,86
+MED0403,2018,October,,,Interceptions by Libyan Coast Guard,353
+MED0402,2018,October,,,Arrivals in Cyprus,665
+MED0401,2018,October,,,Sea arrivals in Greece,4162
+MED0400,2018,October,,,Sea arrivals in Malta,261
+MED0399,2018,October,,,Sea arrivals in Italy,1007
+MED0398,2018,October,,,Land arrivals in Spain,778
+MED0397,2018,October,,,Sea arrivals in Spain,10454
+MED0396,2018,September,,,Deaths recorded in Eastern Med,12
+MED0395,2018,September,,,Deaths recorded in Central Med,130
+MED0394,2018,September,,,Deaths recorded in Western Med,99
+MED0393,2018,September,,,Interceptions by Turkish Coast Guard,2993
+MED0392,2018,September,,,Interceptions by Tunisian Coast Guard,248
+MED0391,2018,September,,,Interceptions by Libyan Coast Guard,751
+MED0390,2018,September,,,Arrivals in Cyprus,646
+MED0389,2018,September,,,Sea arrivals in Greece,4056
+MED0388,2018,September,,,Sea arrivals in Malta,58
+MED0387,2018,September,,,Sea arrivals in Italy,947
+MED0386,2018,September,,,Land arrivals in Spain,345
+MED0385,2018,September,,,Sea arrivals in Spain,7869
+MED0384,2018,August,,,Deaths recorded in Eastern Med,10
+MED0383,2018,August,,,Deaths recorded in Central Med,19
+MED0382,2018,August,,,Deaths recorded in Western Med,68
+MED0381,2018,August,,,Interceptions by Turkish Coast Guard,1484
+MED0380,2018,August,,,Interceptions by Tunisian Coast Guard,290
+MED0379,2018,August,,,Interceptions by Libyan Coast Guard,553
+MED0378,2018,August,,,Arrivals in Cyprus,1039
+MED0377,2018,August,,,Sea arrivals in Greece,3223
+MED0376,2018,August,,,Sea arrivals in Malta,451
+MED0375,2018,August,,,Sea arrivals in Italy,1531
+MED0374,2018,August,,,Land arrivals in Spain,616
+MED0373,2018,August,,,Sea arrivals in Spain,6299
+MED0372,2018,July,,,Deaths recorded in Eastern Med,50
+MED0371,2018,July,,,Deaths recorded in Central Med,157
+MED0370,2018,July,,,Deaths recorded in Western Med,15
+MED0369,2018,July,,,Interceptions by Turkish Coast Guard,2331
+MED0368,2018,July,,,Interceptions by Tunisian Coast Guard,190
+MED0367,2018,July,,,Interceptions by Libyan Coast Guard,2024
+MED0366,2018,July,,,Arrivals in Cyprus,36
+MED0365,2018,July,,,Sea arrivals in Greece,2548
+MED0364,2018,July,,,Sea arrivals in Malta,28
+MED0363,2018,July,,,Sea arrivals in Italy,1969
+MED0362,2018,July,,,Land arrivals in Spain,1085
+MED0361,2018,July,,,Sea arrivals in Spain,7842
+MED0360,2018,June,,,Deaths recorded in Eastern Med,10
+MED0359,2018,June,,,Deaths recorded in Central Med,564
+MED0358,2018,June,,,Deaths recorded in Western Med,55
+MED0357,2018,June,,,Interceptions by Turkish Coast Guard,1921
+MED0356,2018,June,,,Interceptions by Tunisian Coast Guard,508
+MED0355,2018,June,,,Interceptions by Libyan Coast Guard,3866
+MED0354,2018,June,,,Arrivals in Cyprus,36
+MED0353,2018,June,,,Sea arrivals in Greece,2434
+MED0352,2018,June,,,Sea arrivals in Malta,235
+MED0351,2018,June,,,Sea arrivals in Italy,3147
+MED0350,2018,June,,,Land arrivals in Spain,397
+MED0349,2018,June,,,Sea arrivals in Spain,5498
+MED0348,2018,May,,,Deaths recorded in Eastern Med,16
+MED0347,2018,May,,,Deaths recorded in Central Med,11
+MED0346,2018,May,,,Deaths recorded in Western Med,21
+MED0345,2018,May,,,Interceptions by Turkish Coast Guard,3184
+MED0344,2018,May,,,Interceptions by Tunisian Coast Guard,624
+MED0343,2018,May,,,Interceptions by Libyan Coast Guard,1866
+MED0342,2018,May,,,Arrivals in Cyprus,239
+MED0341,2018,May,,,Sea arrivals in Greece,2848
+MED0340,2018,May,,,Sea arrivals in Malta,0
+MED0339,2018,May,,,Sea arrivals in Italy,3963
+MED0338,2018,May,,,Land arrivals in Spain,414
+MED0337,2018,May,,,Sea arrivals in Spain,4234
+MED0336,2018,April,,,Deaths recorded in Eastern Med,0
+MED0335,2018,April,,,Deaths recorded in Central Med,20
+MED0334,2018,April,,,Deaths recorded in Western Med,89
+MED0333,2018,April,,,Interceptions by Turkish Coast Guard,2358
+MED0332,2018,April,,,Interceptions by Tunisian Coast Guard,717
+MED0331,2018,April,,,Interceptions by Libyan Coast Guard,1485
+MED0330,2018,April,,,Arrivals in Cyprus,239
+MED0329,2018,April,,,Sea arrivals in Greece,3034
+MED0328,2018,April,,,Sea arrivals in Malta,0
+MED0327,2018,April,,,Sea arrivals in Italy,3171
+MED0326,2018,April,,,Land arrivals in Spain,448
+MED0325,2018,April,,,Sea arrivals in Spain,959
+MED0324,2018,March,,,Deaths recorded in Eastern Med,19
+MED0323,2018,March,,,Deaths recorded in Central Med,23
+MED0322,2018,March,,,Deaths recorded in Western Med,25
+MED0321,2018,March,,,Interceptions by Turkish Coast Guard,1534
+MED0320,2018,March,,,Interceptions by Tunisian Coast Guard,267
+MED0319,2018,March,,,Interceptions by Libyan Coast Guard,1058
+MED0318,2018,March,,,Arrivals in Cyprus,240
+MED0317,2018,March,,,Sea arrivals in Greece,2428
+MED0316,2018,March,,,Sea arrivals in Malta,0
+MED0315,2018,March,,,Sea arrivals in Italy,1049
+MED0314,2018,March,,,Land arrivals in Spain,417
+MED0313,2018,March,,,Sea arrivals in Spain,1071
+MED0312,2018,February,,,Deaths recorded in Eastern Med,1
+MED0311,2018,February,,,Deaths recorded in Central Med,121
+MED0310,2018,February,,,Deaths recorded in Western Med,75
+MED0309,2018,February,,,Interceptions by Turkish Coast Guard,1046
+MED0308,2018,February,,,Interceptions by Tunisian Coast Guard,442
+MED0307,2018,February,,,Interceptions by Libyan Coast Guard,375
+MED0306,2018,February,,,Arrivals in Cyprus,239
+MED0305,2018,February,,,Sea arrivals in Greece,1185
+MED0304,2018,February,,,Sea arrivals in Malta,0
+MED0303,2018,February,,,Sea arrivals in Italy,1065
+MED0302,2018,February,,,Land arrivals in Spain,416
+MED0301,2018,February,,,Sea arrivals in Spain,868
+MED0300,2018,January,,,Deaths recorded in Eastern Med,0
+MED0299,2018,January,,,Deaths recorded in Central Med,215
+MED0298,2018,January,,,Deaths recorded in Western Med,28
+MED0297,2018,January,,,Interceptions by Turkish Coast Guard,1634
+MED0296,2018,January,,,Interceptions by Tunisian Coast Guard,91
+MED0295,2018,January,,,Interceptions by Libyan Coast Guard,2046
+MED0294,2018,January,,,Arrivals in Cyprus,239
+MED0293,2018,January,,,Sea arrivals in Greece,1585
+MED0292,2018,January,,,Sea arrivals in Malta,0
+MED0291,2018,January,,,Sea arrivals in Italy,4182
+MED0290,2018,January,,,Land arrivals in Spain,782
+MED0289,2018,January,,,Sea arrivals in Spain,1375
+MED0288,2017,December,,,Deaths recorded in Eastern Med,1
+MED0287,2017,December,,,Deaths recorded in Central Med,9
+MED0286,2017,December,,,Deaths recorded in Western Med,16
+MED0285,2017,December,,,Interceptions by Turkish Coast Guard,1442
+MED0284,2017,December,,,Interceptions by Tunisian Coast Guard,105
+MED0283,2017,December,,,Interceptions by Libyan Coast Guard,883
+MED0282,2017,December,,,Arrivals in Cyprus,187
+MED0281,2017,December,,,Sea arrivals in Greece,2480
+MED0280,2017,December,,,Sea arrivals in Malta,0
+MED0279,2017,December,,,Sea arrivals in Italy,2327
+MED0278,2017,December,,,Land arrivals in Spain,820
+MED0277,2017,December,,,Sea arrivals in Spain,2025
+MED0276,2017,November,,,Deaths recorded in Eastern Med,15
+MED0275,2017,November,,,Deaths recorded in Central Med,193
+MED0274,2017,November,,,Deaths recorded in Western Med,54
+MED0273,2017,November,,,Interceptions by Turkish Coast Guard,1976
+MED0272,2017,November,,,Interceptions by Tunisian Coast Guard,417
+MED0271,2017,November,,,Interceptions by Libyan Coast Guard,1333
+MED0270,2017,November,,,Arrivals in Cyprus,351
+MED0269,2017,November,,,Sea arrivals in Greece,3129
+MED0268,2017,November,,,Sea arrivals in Malta,0
+MED0267,2017,November,,,Sea arrivals in Italy,5645
+MED0266,2017,November,,,Land arrivals in Spain,1160
+MED0265,2017,November,,,Sea arrivals in Spain,3903
+MED0264,2017,October,,,Deaths recorded in Eastern Med,0
+MED0263,2017,October,,,Deaths recorded in Central Med,166
+MED0262,2017,October,,,Deaths recorded in Western Med,9
+MED0261,2017,October,,,Interceptions by Turkish Coast Guard,2667
+MED0260,2017,October,,,Interceptions by Tunisian Coast Guard,951
+MED0259,2017,October,,,Interceptions by Libyan Coast Guard,1009
+MED0258,2017,October,,,Arrivals in Cyprus,207
+MED0257,2017,October,,,Sea arrivals in Greece,4218
+MED0256,2017,October,,,Sea arrivals in Malta,0
+MED0255,2017,October,,,Sea arrivals in Italy,5988
+MED0254,2017,October,,,Land arrivals in Spain,2
+MED0253,2017,October,,,Sea arrivals in Spain,3389
+MED0252,2017,September,,,Deaths recorded in Eastern Med,1
+MED0251,2017,September,,,Deaths recorded in Central Med,102
+MED0250,2017,September,,,Deaths recorded in Western Med,12
+MED0249,2017,September,,,Interceptions by Turkish Coast Guard,2929
+MED0248,2017,September,,,Interceptions by Tunisian Coast Guard,53
+MED0247,2017,September,,,Interceptions by Libyan Coast Guard,2834
+MED0246,2017,September,,,Arrivals in Cyprus,457
+MED0245,2017,September,,,Sea arrivals in Greece,4604
+MED0244,2017,September,,,Sea arrivals in Malta,0
+MED0243,2017,September,,,Sea arrivals in Italy,6282
+MED0242,2017,September,,,Land arrivals in Spain,708
+MED0241,2017,September,,,Sea arrivals in Spain,1477
+MED0240,2017,August,,,Deaths recorded in Eastern Med,0
+MED0239,2017,August,,,Deaths recorded in Central Med,143
+MED0238,2017,August,,,Deaths recorded in Western Med,8
+MED0237,2017,August,,,Interceptions by Turkish Coast Guard,2025
+MED0236,2017,August,,,Interceptions by Tunisian Coast Guard,0
+MED0235,2017,August,,,Interceptions by Libyan Coast Guard,2406
+MED0234,2017,August,,,Arrivals in Cyprus,382
+MED0233,2017,August,,,Sea arrivals in Greece,3665
+MED0232,2017,August,,,Sea arrivals in Malta,0
+MED0231,2017,August,,,Sea arrivals in Italy,3914
+MED0230,2017,August,,,Land arrivals in Spain,326
+MED0229,2017,August,,,Sea arrivals in Spain,2188
+MED0228,2017,July,,,Deaths recorded in Eastern Med,8
+MED0227,2017,July,,,Deaths recorded in Central Med,68
+MED0226,2017,July,,,Deaths recorded in Western Med,56
+MED0225,2017,July,,,Interceptions by Turkish Coast Guard,1528
+MED0224,2017,July,,,Interceptions by Tunisian Coast Guard,1040
+MED0223,2017,July,,,Interceptions by Libyan Coast Guard,641
+MED0222,2017,July,,,Arrivals in Cyprus,59
+MED0221,2017,July,,,Sea arrivals in Greece,2283
+MED0220,2017,July,,,Sea arrivals in Malta,0
+MED0219,2017,July,,,Sea arrivals in Italy,11461
+MED0218,2017,July,,,Land arrivals in Spain,389
+MED0217,2017,July,,,Sea arrivals in Spain,2126
+MED0216,2017,June,,,Deaths recorded in Eastern Med,0
+MED0215,2017,June,,,Deaths recorded in Central Med,529
+MED0214,2017,June,,,Deaths recorded in Western Med,10
+MED0213,2017,June,,,Interceptions by Turkish Coast Guard,1518
+MED0212,2017,June,,,Interceptions by Tunisian Coast Guard,0
+MED0211,2017,June,,,Interceptions by Libyan Coast Guard,2433
+MED0210,2017,June,,,Arrivals in Cyprus,59
+MED0209,2017,June,,,Sea arrivals in Greece,1909
+MED0208,2017,June,,,Sea arrivals in Malta,0
+MED0207,2017,June,,,Sea arrivals in Italy,23524
+MED0206,2017,June,,,Land arrivals in Spain,0
+MED0205,2017,June,,,Sea arrivals in Spain,2345
+MED0204,2017,May,,,Deaths recorded in Eastern Med,0
+MED0203,2017,May,,,Deaths recorded in Central Med,621
+MED0202,2017,May,,,Deaths recorded in Western Med,2
+MED0201,2017,May,,,Interceptions by Turkish Coast Guard,1218
+MED0200,2017,May,,,Interceptions by Tunisian Coast Guard,0
+MED0199,2017,May,,,Interceptions by Libyan Coast Guard,3774
+MED0198,2017,May,,,Arrivals in Cyprus,192
+MED0197,2017,May,,,Sea arrivals in Greece,2075
+MED0196,2017,May,,,Sea arrivals in Malta,0
+MED0195,2017,May,,,Sea arrivals in Italy,22993
+MED0194,2017,May,,,Land arrivals in Spain,110
+MED0193,2017,May,,,Sea arrivals in Spain,860
+MED0192,2017,April,,,Deaths recorded in Eastern Med,24
+MED0191,2017,April,,,Deaths recorded in Central Med,280
+MED0190,2017,April,,,Deaths recorded in Western Med,9
+MED0189,2017,April,,,Interceptions by Turkish Coast Guard,1457
+MED0188,2017,April,,,Interceptions by Tunisian Coast Guard,362
+MED0187,2017,April,,,Interceptions by Libyan Coast Guard,443
+MED0186,2017,April,,,Arrivals in Cyprus,192
+MED0185,2017,April,,,Sea arrivals in Greece,1170
+MED0184,2017,April,,,Sea arrivals in Malta,0
+MED0183,2017,April,,,Sea arrivals in Italy,12943
+MED0182,2017,April,,,Land arrivals in Spain,0
+MED0181,2017,April,,,Sea arrivals in Spain,779
+MED0180,2017,March,,,Deaths recorded in Eastern Med,11
+MED0179,2017,March,,,Deaths recorded in Central Med,300
+MED0178,2017,March,,,Deaths recorded in Western Med,7
+MED0177,2017,March,,,Interceptions by Turkish Coast Guard,1284
+MED0176,2017,March,,,Interceptions by Tunisian Coast Guard,85
+MED0175,2017,March,,,Interceptions by Libyan Coast Guard,1493
+MED0174,2017,March,,,Arrivals in Cyprus,192
+MED0173,2017,March,,,Sea arrivals in Greece,1554
+MED0172,2017,March,,,Sea arrivals in Malta,0
+MED0171,2017,March,,,Sea arrivals in Italy,10853
+MED0170,2017,March,,,Land arrivals in Spain,500
+MED0169,2017,March,,,Sea arrivals in Spain,944
+MED0168,2017,February,,,Deaths recorded in Eastern Med,1
+MED0167,2017,February,,,Deaths recorded in Central Med,217
+MED0166,2017,February,,,Deaths recorded in Western Med,13
+MED0165,2017,February,,,Interceptions by Turkish Coast Guard,659
+MED0164,2017,February,,,Interceptions by Tunisian Coast Guard,30
+MED0163,2017,February,,,Interceptions by Libyan Coast Guard,952
+MED0162,2017,February,,,Arrivals in Cyprus,192
+MED0161,2017,February,,,Sea arrivals in Greece,1024
+MED0160,2017,February,,,Sea arrivals in Malta,0
+MED0159,2017,February,,,Sea arrivals in Italy,8972
+MED0158,2017,February,,,Land arrivals in Spain,874
+MED0157,2017,February,,,Sea arrivals in Spain,510
+MED0156,2017,January,,,Deaths recorded in Eastern Med,1
+MED0155,2017,January,,,Deaths recorded in Central Med,225
+MED0154,2017,January,,,Deaths recorded in Western Med,28
+MED0153,2017,January,,,Interceptions by Turkish Coast Guard,381
+MED0152,2017,January,,,Interceptions by Tunisian Coast Guard,87
+MED0151,2017,January,,,Interceptions by Libyan Coast Guard,699
+MED0150,2017,January,,,Arrivals in Cyprus,0
+MED0149,2017,January,,,Sea arrivals in Greece,1390
+MED0148,2017,January,,,Sea arrivals in Malta,0
+MED0147,2017,January,,,Sea arrivals in Italy,4468
+MED0146,2017,January,,,Land arrivals in Spain,307
+MED0145,2017,January,,,Sea arrivals in Spain,1000
+MED0144,2016,December,,,Deaths recorded in Eastern Med,5
+MED0143,2016,December,,,Deaths recorded in Central Med,374
+MED0142,2016,December,,,Deaths recorded in Western Med,7
+MED0141,2016,December,,,Interceptions by Turkish Coast Guard,781
+MED0140,2016,December,,,Interceptions by Tunisian Coast Guard,111
+MED0139,2016,December,,,Interceptions by Libyan Coast Guard,441
+MED0138,2016,December,,,Arrivals in Cyprus,27
+MED0137,2016,December,,,Sea arrivals in Greece,1715
+MED0136,2016,December,,,Sea arrivals in Malta,0
+MED0135,2016,December,,,Sea arrivals in Italy,8047
+MED0134,2016,December,,,Land arrivals in Spain,0
+MED0133,2016,December,,,Sea arrivals in Spain,80
+MED0132,2016,November,,,Deaths recorded in Eastern Med,14
+MED0131,2016,November,,,Deaths recorded in Central Med,703
+MED0130,2016,November,,,Deaths recorded in Western Med,1
+MED0129,2016,November,,,Interceptions by Turkish Coast Guard,1856
+MED0128,2016,November,,,Interceptions by Tunisian Coast Guard,169
+MED0127,2016,November,,,Interceptions by Libyan Coast Guard,1116
+MED0126,2016,November,,,Arrivals in Cyprus,129
+MED0125,2016,November,,,Sea arrivals in Greece,1932
+MED0124,2016,November,,,Sea arrivals in Malta,0
+MED0123,2016,November,,,Sea arrivals in Italy,13962
+MED0122,2016,November,,,Land arrivals in Spain,0
+MED0121,2016,November,,,Sea arrivals in Spain,854
+MED0120,2016,October,,,Deaths recorded in Eastern Med,2
+MED0119,2016,October,,,Deaths recorded in Central Med,431
+MED0118,2016,October,,,Deaths recorded in Western Med,4
+MED0117,2016,October,,,Interceptions by Turkish Coast Guard,2437
+MED0116,2016,October,,,Interceptions by Tunisian Coast Guard,159
+MED0115,2016,October,,,Interceptions by Libyan Coast Guard,1504
+MED0114,2016,October,,,Arrivals in Cyprus,83
+MED0113,2016,October,,,Sea arrivals in Greece,3078
+MED0112,2016,October,,,Sea arrivals in Malta,0
+MED0111,2016,October,,,Sea arrivals in Italy,27384
+MED0110,2016,October,,,Land arrivals in Spain,0
+MED0109,2016,October,,,Sea arrivals in Spain,1110
+MED0108,2016,September,,,Deaths recorded in Eastern Med,27
+MED0107,2016,September,,,Deaths recorded in Central Med,341
+MED0106,2016,September,,,Deaths recorded in Western Med,0
+MED0105,2016,September,,,Interceptions by Turkish Coast Guard,3425
+MED0104,2016,September,,,Interceptions by Tunisian Coast Guard,244
+MED0103,2016,September,,,Interceptions by Libyan Coast Guard,1180
+MED0102,2016,September,,,Arrivals in Cyprus,55
+MED0101,2016,September,,,Sea arrivals in Greece,3052
+MED0100,2016,September,,,Sea arrivals in Malta,0
+MED0099,2016,September,,,Sea arrivals in Italy,16975
+MED0098,2016,September,,,Land arrivals in Spain,0
+MED0097,2016,September,,,Sea arrivals in Spain,1248
+MED0096,2016,August,,,Deaths recorded in Eastern Med,3
+MED0095,2016,August,,,Deaths recorded in Central Med,40
+MED0094,2016,August,,,Deaths recorded in Western Med,19
+MED0093,2016,August,,,Interceptions by Turkish Coast Guard,1603
+MED0092,2016,August,,,Interceptions by Tunisian Coast Guard,118
+MED0091,2016,August,,,Interceptions by Libyan Coast Guard,213
+MED0090,2016,August,,,Arrivals in Cyprus,23
+MED0089,2016,August,,,Sea arrivals in Greece,3540
+MED0088,2016,August,,,Sea arrivals in Malta,0
+MED0087,2016,August,,,Sea arrivals in Italy,21294
+MED0086,2016,August,,,Land arrivals in Spain,0
+MED0085,2016,August,,,Sea arrivals in Spain,934
+MED0084,2016,July,,,Deaths recorded in Eastern Med,7
+MED0083,2016,July,,,Deaths recorded in Central Med,208
+MED0082,2016,July,,,Deaths recorded in Western Med,11
+MED0081,2016,July,,,Interceptions by Turkish Coast Guard,881
+MED0080,2016,July,,,Interceptions by Tunisian Coast Guard,39
+MED0079,2016,July,,,Interceptions by Libyan Coast Guard,739
+MED0078,2016,July,,,Arrivals in Cyprus,0
+MED0077,2016,July,,,Sea arrivals in Greece,1920
+MED0076,2016,July,,,Sea arrivals in Malta,0
+MED0075,2016,July,,,Sea arrivals in Italy,23552
+MED0074,2016,July,,,Land arrivals in Spain,0
+MED0073,2016,July,,,Sea arrivals in Spain,458
+MED0072,2016,June,,,Deaths recorded in Eastern Med,0
+MED0071,2016,June,,,Deaths recorded in Central Med,388
+MED0070,2016,June,,,Deaths recorded in Western Med,1
+MED0069,2016,June,,,Interceptions by Turkish Coast Guard,538
+MED0068,2016,June,,,Interceptions by Tunisian Coast Guard,72
+MED0067,2016,June,,,Interceptions by Libyan Coast Guard,1769
+MED0066,2016,June,,,Arrivals in Cyprus,0
+MED0065,2016,June,,,Sea arrivals in Greece,1554
+MED0064,2016,June,,,Sea arrivals in Malta,0
+MED0063,2016,June,,,Sea arrivals in Italy,22371
+MED0062,2016,June,,,Land arrivals in Spain,0
+MED0061,2016,June,,,Sea arrivals in Spain,715
+MED0060,2016,May,,,Deaths recorded in Eastern Med,0
+MED0059,2016,May,,,Deaths recorded in Central Med,1130
+MED0058,2016,May,,,Deaths recorded in Western Med,48
+MED0057,2016,May,,,Interceptions by Turkish Coast Guard,1109
+MED0056,2016,May,,,Interceptions by Tunisian Coast Guard,148
+MED0055,2016,May,,,Interceptions by Libyan Coast Guard,3688
+MED0054,2016,May,,,Arrivals in Cyprus,0
+MED0053,2016,May,,,Sea arrivals in Greece,1721
+MED0052,2016,May,,,Sea arrivals in Malta,0
+MED0051,2016,May,,,Sea arrivals in Italy,19925
+MED0050,2016,May,,,Land arrivals in Spain,0
+MED0049,2016,May,,,Sea arrivals in Spain,575
+MED0048,2016,April,,,Deaths recorded in Eastern Med,10
+MED0047,2016,April,,,Deaths recorded in Central Med,611
+MED0046,2016,April,,,Deaths recorded in Western Med,9
+MED0045,2016,April,,,Interceptions by Turkish Coast Guard,1717
+MED0044,2016,April,,,Interceptions by Tunisian Coast Guard,23
+MED0043,2016,April,,,Interceptions by Libyan Coast Guard,880
+MED0042,2016,April,,,Arrivals in Cyprus,0
+MED0041,2016,April,,,Sea arrivals in Greece,3650
+MED0040,2016,April,,,Sea arrivals in Malta,0
+MED0039,2016,April,,,Sea arrivals in Italy,9149
+MED0038,2016,April,,,Land arrivals in Spain,0
+MED0037,2016,April,,,Sea arrivals in Spain,451
+MED0036,2016,March,,,Deaths recorded in Eastern Med,45
+MED0035,2016,March,,,Deaths recorded in Central Med,258
+MED0034,2016,March,,,Deaths recorded in Western Med,21
+MED0033,2016,March,,,Interceptions by Turkish Coast Guard,8530
+MED0032,2016,March,,,Interceptions by Tunisian Coast Guard,11
+MED0031,2016,March,,,Interceptions by Libyan Coast Guard,2333
+MED0030,2016,March,,,Arrivals in Cyprus,28
+MED0029,2016,March,,,Sea arrivals in Greece,26971
+MED0028,2016,March,,,Sea arrivals in Malta,0
+MED0027,2016,March,,,Sea arrivals in Italy,9676
+MED0026,2016,March,,,Land arrivals in Spain,0
+MED0025,2016,March,,,Sea arrivals in Spain,351
+MED0024,2016,February,,,Deaths recorded in Eastern Med,46
+MED0023,2016,February,,,Deaths recorded in Central Med,7
+MED0022,2016,February,,,Deaths recorded in Western Med,2
+MED0021,2016,February,,,Interceptions by Turkish Coast Guard,8747
+MED0020,2016,February,,,Interceptions by Tunisian Coast Guard,11
+MED0019,2016,February,,,Interceptions by Libyan Coast Guard,120
+MED0018,2016,February,,,Arrivals in Cyprus,0
+MED0017,2016,February,,,Sea arrivals in Greece,57066
+MED0016,2016,February,,,Sea arrivals in Malta,0
+MED0015,2016,February,,,Sea arrivals in Italy,3828
+MED0014,2016,February,,,Land arrivals in Spain,0
+MED0013,2016,February,,,Sea arrivals in Spain,222
+MED0012,2016,January,,,Deaths recorded in Eastern Med,275
+MED0011,2016,January,,,Deaths recorded in Central Med,90
+MED0010,2016,January,,,Deaths recorded in Western Med,5
+MED0009,2016,January,,,Interceptions by Turkish Coast Guard,5506
+MED0008,2016,January,,,Interceptions by Tunisian Coast Guard,0
+MED0007,2016,January,,,Interceptions by Libyan Coast Guard,349
+MED0006,2016,January,,,Arrivals in Cyprus,0
+MED0005,2016,January,,,Sea arrivals in Greece,67415
+MED0004,2016,January,,,Sea arrivals in Malta,0
+MED0003,2016,January,,,Sea arrivals in Italy,5273
+MED0002,2016,January,,,Land arrivals in Spain,0
+MED0001,2016,January,,,Sea arrivals in Spain,492
